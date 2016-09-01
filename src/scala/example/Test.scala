@@ -1,6 +1,6 @@
 
 
-package com.siinger.example
+package scala.example
 
 object Test {
   

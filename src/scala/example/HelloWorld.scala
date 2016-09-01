@@ -1,4 +1,4 @@
-package com.siinger.example
+package scala.example
 
 /**
  * ClassName: HelloWorld <br/>

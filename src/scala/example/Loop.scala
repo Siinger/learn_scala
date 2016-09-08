@@ -1,8 +1,9 @@
 package scala.example
 
 import java.util.ArrayList
+import scala.example.Test
 
-object Basic {
+object Loop {
 
   def main(args: Array[String]) {
 
@@ -32,7 +33,26 @@ object Basic {
     do {
       a = a + 1;
     } while (a < 6)
-
+      
+    // variable
+    var c:Int=1;
+    c=2;
+    val b:Int=1;
+    
+    var s="aaaa";
+    
+    
+    var dstring="""ddddfadfa
+       dadfa  df
+      cadcadc
+      dacad
+      xxx
+      dadca
+      cdacb|dadad
+      cadca
+      ###"""
+    val dd=new Test2()
+    dd.aa()
   }
 
 }
